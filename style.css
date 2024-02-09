@@ -1,7 +1,15 @@
 html, body {
   margin: 0;
   padding: 0;
+  backgcolor:#333;
 }
-canvas {
-  display: block;
+canvadisplay: block;
+}
+
+p {
+  color:#fffff;
+}
+
+div {
+  margin: 50px;
 }
